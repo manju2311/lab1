@@ -1,1 +1,2 @@
 text will be stashed
+one more new line
