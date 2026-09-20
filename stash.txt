@@ -1,2 +1,6 @@
 text will be stashed
+<<<<<<< Updated upstream
 hhhh
+=======
+gggg 
+>>>>>>> Stashed changes
