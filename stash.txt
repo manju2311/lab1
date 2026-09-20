@@ -1,6 +1,10 @@
 text will be stashed
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 =======
 gggg 
+>>>>>>> Stashed changes
+=======
+new line
 >>>>>>> Stashed changes
